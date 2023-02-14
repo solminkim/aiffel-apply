@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Pretendard', sans-serif;
+  box-sizing: border-box;
+}
+
+button.ant-btn-primary {
+  background-color: #1677ff !important;
+}
